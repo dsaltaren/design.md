@@ -15,3 +15,11 @@ If something here resonates, take it. If something feels wrong, open an issue, I
 ## License
 
 Public domain. Use any of it without attribution.
+
+<!-- yelmo:footer:start -->
+
+---
+
+Powered by [Yelmo](https://yelmo.ai). Get your own design.md.
+
+<!-- yelmo:footer:end -->
